@@ -1,0 +1,39 @@
+.css-1xr5u3g{
+    padding: 0px !important;
+}
+
+
+.bg {
+  height: 90vh;
+  background-image: url(../../../public/v748-toon-103.jpg);
+}
+
+.center-form {
+  padding-top: 40%;
+}
+
+.form {
+  background-color: rgba(255, 255, 255, 0.326);
+  padding: 20px;
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  /* color:#2d235d; */
+}
+
+#log-form {
+  text-align: right !important;
+  direction: rtl !important;
+}
+
+.inputt {
+  background: rgb(255, 255, 255);
+  border-radius: 5px;
+  text-align: right !important;
+  border: none !important;
+}
+
+.errMasg {
+  direction: rtl !important;
+  text-align: center !important;
+}
+
